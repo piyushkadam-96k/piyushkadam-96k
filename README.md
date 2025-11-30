@@ -16,7 +16,7 @@ Everything is **safe**, and the account will **reopen shortly**.
 
 ---
 
-<img src="https://raw.githubusercontent.com/amitkadam96k/amitkadam96k/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/piyushkadam-96k/piyushkadam-96k/output/snake" />
 
 
 ### ✅ **Status:** _Reactivating..._  
