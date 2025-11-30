@@ -16,14 +16,8 @@ Everything is **safe**, and the account will **reopen shortly**.
 
 ---
 
-```
-██████╗░░█████╗░░█████╗░██╗███╗░░██╗███╗░░██╗
-██╔══██╗██╔══██╗██╔══██╗██║████╗░██║████╗░██║
-██████╦╝███████║██║░░╚═╝██║██╔██╗██║██╔██╗██║
-██╔══██╗██╔══██║██║░░██╗██║██║╚████║██║╚████║
-██████╦╝██║░░██║╚█████╔╝██║██║░╚███║██║░╚███║
-╚═════╝░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚══╝
-```
+<img src="https://raw.githubusercontent.com/amitkadam96k/amitkadam96k/output/github-contribution-grid-snake.svg" />
+
 
 ### ✅ **Status:** _Reactivating..._  
 ### ⏳ **Estimated Re-Open:** _Very Soon_
